@@ -194,7 +194,7 @@ Contact **SafexSecurity** through the website contact form.
 
 ## 📸 Website Preview
 
-Add screenshots of the website here:
+
 
 ```text
 screenshots/
